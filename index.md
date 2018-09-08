@@ -27,3 +27,16 @@ Breaking the following rules will lead to deduction of points or disqualificatio
 - No tampering with or attacking the scoreboard app
 - You may not tamper with the database table related to your challenge progress.
 - If you aren’t sure about anything, ask 🙂
+
+### Well suited tasks
+- XSS Tier 0 ( :star: )
+- XSS Tier 1 ( :star: )
+- Admin Section ( :star: )
+- Confidential Document ( :star: )
+- Christmas Special ( :star::star: )
+- Basket Access ( :star::star: )
+- Forgotten Sales Backup ( :star::star::star: )
+- Forgotten Developer Backup ( :star::star::star::star: )
+- CSRF ( :star::star::star::star: )
+- User Credentials ( :star::star::star::star: )
+- Forged Coupon ( :star::star::star::star::star::star: )
