@@ -1,3 +1,11 @@
+<style>
+img {
+    width: 1.3em;
+    height: 1.3em;
+}
+</style>
+
+
 ## Welcome to The Bouvet Play 2018 Capture The Flag (CTF)!
 
 ### Links:
