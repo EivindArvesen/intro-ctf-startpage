@@ -6,19 +6,19 @@ img {
 </style>
 
 
-## Welcome to The Bouvet Play 2018 Capture The Flag (CTF)!
+## Welcome an Introduction to Capture The Flag (CTF)!
 
 ### Links:
 
 Application Instance: [https://bouvet-ctf-X.herokuapp.com/](https://bouvet-ctf-X.herokuapp.com/) (where X is your Team Number)
 
-[Scoreboard](https://ctf.bouvetmove.no/)
+[Scoreboard](https://bouvet-ctfd.herokuapp.com)
 
 [Hints](./hints.pdf) (courtesy of [Josh C. Grossman](https://joshcgrossman.com/))
 
 ### Steps
 
-Before the CTF starts, you need to go register your team details in the [scoreboard](https://ctf.bouvetmove.no/) app (one account per team). There should be two players on every team.
+Before the CTF starts, you need to go register your team details in the [scoreboard](https://bouvet-ctfd.herokuapp.com) app (one account per team).
 
 Once the CTF starts, you can use the “Challenges” screen to enter your flags. You should search for the challenge name on the challenges screen.
 
@@ -37,14 +37,14 @@ Breaking the following rules will lead to deduction of points or disqualificatio
 - If you aren’t sure about anything, ask 🙂
 
 ### Well suited tasks
-- XSS Tier 0 ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- XSS Tier 1 ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Admin Section ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Confidential Document ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Christmas Special ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Basket Access ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Forgotten Sales Backup ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Forgotten Developer Backup ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- CSRF ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- User Credentials ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
-- Forged Coupon ( ![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star")![Star](https://bkimminich.gitbooks.io/pwning-owasp-juice-shop/content/gitbook/gitbook-plugin-advanced-emoji/emojis/star.png "Star") )
+- XSS Tier 0 ( ⭐️ )
+- XSS Tier 1 ( ⭐️ )
+- Admin Section ( ⭐️ )
+- Confidential Document ( ⭐️ )
+- Christmas Special ( ⭐️⭐️ )
+- Basket Access ( ⭐️⭐️ )
+- Forgotten Sales Backup ( ⭐️⭐️⭐️ )
+- Forgotten Developer Backup ( ⭐️⭐️⭐️⭐️ )
+- CSRF ( ⭐️⭐️⭐️⭐️ )
+- User Credentials ( ⭐️⭐️⭐️⭐️ )
+- Forged Coupon ( ⭐️⭐️⭐️⭐️⭐️⭐️ )
