@@ -34,7 +34,7 @@ Breaking the following rules will lead to deduction of points or disqualificatio
 - No Googling around for solutions
 - No tampering with or attacking the scoreboard app
 - You may not tamper with the database table related to your challenge progress.
-- If you aren’t sure about anything, ask 🙂
+- If you're unsure sure about something, ask 🙂
 
 ### Well suited tasks
 - XSS Tier 0 ( ⭐️ )
