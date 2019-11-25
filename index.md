@@ -10,7 +10,7 @@ img {
 
 ### Links:
 
-Application Instance: [https://bouvet-ctf-X.herokuapp.com/](https://bouvet-ctf-X.herokuapp.com/) (where X is your Team Number)
+Application Instance: [https://ctf-X.herokuapp.com/](https://ctf-X.herokuapp.com/) (where X is your Instance Name)
 
 [Scoreboard](https://bouvet-ctfd.herokuapp.com)
 
@@ -18,7 +18,7 @@ Application Instance: [https://bouvet-ctf-X.herokuapp.com/](https://bouvet-ctf-X
 
 ### Steps
 
-Before the CTF starts, you need to go register your team details in the [scoreboard](https://bouvet-ctfd.herokuapp.com) app (one account per team).
+Before the CTF starts, you need to go register your team details ("create unofficial team") in the [scoreboard](https://bouvet-ctfd.herokuapp.com) app (one account per team).
 
 Once the CTF starts, you can use the “Challenges” screen to enter your flags. You should search for the challenge name on the challenges screen.
 
