@@ -8,6 +8,14 @@ img {
 
 ## Welcome an Introduction to Capture The Flag (CTF)!
 
+Teams, Bouvet nov 26th 2019
+
+[bespectacled-millionaire](https://ctf-bespectacled-millionaire.herokuapp.com)
+[childish-dungeonmaster](https://ctf-childish-dungeonmaster.herokuapp.com)
+[lollygagging-hipster](https://ctf-lollygagging-hipster.herokuapp.com)
+[drowning-vegetable](https://ctf-drowning-vegetable.herokuapp.com)
+[childish-hacker](https://ctf-childish-hacker.herokuapp.com)
+
 ### Links:
 
 Application Instance: [https://ctf-X.herokuapp.com/](https://ctf-X.herokuapp.com/) (where X is your Instance Name)
