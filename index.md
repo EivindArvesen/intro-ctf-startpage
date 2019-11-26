@@ -24,6 +24,12 @@ Once the CTF starts, you can use the “Challenges” screen to enter your flags
 
 If you miss your flag for some reason, you can go to the scoreboard screen of the vulnerable application and click on the green button to see it again.
 
+### Helpful stuff
+
+You _might_ want to check out the [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
+
+Also, you might like to use a scanner like [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) or [Burp Suite](https://portswigger.net/burp/communitydownload).
+
 ### Rules
 Breaking the following rules will lead to deduction of points or disqualification.
 
