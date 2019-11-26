@@ -10,11 +10,11 @@ img {
 
 Teams, Bouvet nov 26th 2019
 
-[bespectacled-millionaire](https://ctf-bespectacled-millionaire.herokuapp.com)
-[childish-dungeonmaster](https://ctf-childish-dungeonmaster.herokuapp.com)
-[lollygagging-hipster](https://ctf-lollygagging-hipster.herokuapp.com)
-[drowning-vegetable](https://ctf-drowning-vegetable.herokuapp.com)
-[childish-hacker](https://ctf-childish-hacker.herokuapp.com)
+1. [bespectacled-millionaire](https://ctf-bespectacled-millionaire.herokuapp.com)
+2. [childish-dungeonmaster](https://ctf-childish-dungeonmaster.herokuapp.com)
+3. [lollygagging-hipster](https://ctf-lollygagging-hipster.herokuapp.com)
+4. [drowning-vegetable](https://ctf-drowning-vegetable.herokuapp.com)
+5. [childish-hacker](https://ctf-childish-hacker.herokuapp.com)
 
 ### Links:
 
