@@ -8,14 +8,6 @@ img {
 
 ## Welcome an Introduction to Capture The Flag (CTF)!
 
-Teams, Bouvet nov 26th 2019
-
-1. [bespectacled-millionaire](https://ctf-bespectacled-millionaire.herokuapp.com)
-2. [childish-dungeonmaster](https://ctf-childish-dungeonmaster.herokuapp.com)
-3. [lollygagging-hipster](https://ctf-lollygagging-hipster.herokuapp.com)
-4. [drowning-vegetable](https://ctf-drowning-vegetable.herokuapp.com)
-5. [childish-hacker](https://ctf-childish-hacker.herokuapp.com)
-
 ### Links:
 
 Application Instance: [https://ctf-X.herokuapp.com/](https://ctf-X.herokuapp.com/) (where X is your Instance Name)
@@ -35,8 +27,6 @@ If you miss your flag for some reason, you can go to the scoreboard screen of th
 ### Helpful stuff
 
 You _might_ want to check out the [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project).
-
-Also, you might like to use a scanner like [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) or [Burp Suite](https://portswigger.net/burp/communitydownload).
 
 ### Rules
 Breaking the following rules will lead to deduction of points or disqualification.
